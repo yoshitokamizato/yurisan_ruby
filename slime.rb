@@ -9,6 +9,6 @@ end
 
 
 slime = Slime.new("すら坊", 10, 5)
-
+puts slime.name
 puts slime.hp
 puts slime.mp
